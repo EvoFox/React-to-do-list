@@ -17,12 +17,13 @@
   display: flex;
   justify-content: space-around;
   
-  font-size: 60px;
+  font-size: 50px;
 
   color: black;
 }
 .Header h2 {
-  width: 600px;
+  width: 50%;
+  height: auto;
   
 }
 
