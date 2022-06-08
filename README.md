@@ -1,3 +1,16 @@
+# React To-Do List application
+This project was undertaken during my Code Nation Master bootcamp course, I was tasked with creating a basic to-do list application, to demonstrate the interactivity of React applications.
+
+## Intentions of this project
+This project was intended to learn how to set up React projects, and how to create/implement reusable components and store/interact with local data. I also utilised this project to learn how to utilise figma to create mockups of the user interface. Though while coding the project, I realised that the best way to seperate components differed to what I had initially planned. Below is the initial mockup that was created.
+
+![image](https://user-images.githubusercontent.com/6630720/172621003-fb83b089-2551-4822-bc49-41ee01852109.png)
+
+
+The current version of the application is deployed [here](https://evo-to-do-list.netlify.app)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
