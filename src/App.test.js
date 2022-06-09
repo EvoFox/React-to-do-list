@@ -13,3 +13,16 @@ describe("Header tests", () => {
 		expect(headerElement).toBeInTheDocument();
 	});
 });
+
+describe("ToDoEntry tests", () => {
+	test("renders Title label", () => {
+		render(<App />);
+		const labelElement = screen.getByText(/title/i);
+		expect(labelElement).toBeInTheDocument();
+	});
+	test("renders content label", () => {
+		render(<App />);
+		const labelElement = screen.getByText(/content/i);
+		expect(labelElement).toBeInTheDocument();
+	});
+});

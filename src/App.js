@@ -53,6 +53,7 @@ function App() {
 							title={entries.title}
 							content={entries.content}
 							archive={entries.archive}
+							key={index}
 							handleDelete={() => handleDelete(index)}
 						/>
 					);
